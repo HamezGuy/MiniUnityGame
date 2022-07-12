@@ -1,0 +1,2947 @@
+fileFormatVersion: 2
+guid: 632dbcb551e18344bb7c2c47990f7846
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4639878321604746062
+    second: houses_outside_shadowsRPGBuildingsHouse 1_0
+  - first:
+      213: -5026079477865731522
+    second: houses_outside_shadowsRPGBuildingsHouse 1_1
+  - first:
+      213: -1688959684290247751
+    second: houses_outside_shadowsRPGBuildingsHouse 1_2
+  - first:
+      213: -2478482009100446698
+    second: houses_outside_shadowsRPGBuildingsHouse 1_3
+  - first:
+      213: -8435219363306238737
+    second: houses_outside_shadowsRPGBuildingsHouse 1_4
+  - first:
+      213: -4518142172100672327
+    second: houses_outside_shadowsRPGBuildingsHouse 1_5
+  - first:
+      213: 583548502681926535
+    second: houses_outside_shadowsRPGBuildingsHouse 1_6
+  - first:
+      213: 9051672195661091209
+    second: houses_outside_shadowsRPGBuildingsHouse 1_7
+  - first:
+      213: 1452348917414902997
+    second: houses_outside_shadowsRPGBuildingsHouse 1_8
+  - first:
+      213: -6274496095684829586
+    second: houses_outside_shadowsRPGBuildingsHouse 1_9
+  - first:
+      213: 4613856394272696008
+    second: houses_outside_shadowsRPGBuildingsHouse 1_10
+  - first:
+      213: 6596538166363387198
+    second: houses_outside_shadowsRPGBuildingsHouse 1_11
+  - first:
+      213: -4074231017068744255
+    second: houses_outside_shadowsRPGBuildingsHouse 1_12
+  - first:
+      213: 1104787702790234242
+    second: houses_outside_shadowsRPGBuildingsHouse 1_13
+  - first:
+      213: 3621936787063782333
+    second: houses_outside_shadowsRPGBuildingsHouse 1_14
+  - first:
+      213: -1482422577958750913
+    second: houses_outside_shadowsRPGBuildingsHouse 1_15
+  - first:
+      213: 2790682164132303595
+    second: houses_outside_shadowsRPGBuildingsHouse 1_16
+  - first:
+      213: -8622872735213521681
+    second: houses_outside_shadowsRPGBuildingsHouse 1_17
+  - first:
+      213: 5786700553730958243
+    second: houses_outside_shadowsRPGBuildingsHouse 1_18
+  - first:
+      213: 8900904506549946359
+    second: houses_outside_shadowsRPGBuildingsHouse 1_19
+  - first:
+      213: 6799570373589455850
+    second: houses_outside_shadowsRPGBuildingsHouse 1_20
+  - first:
+      213: 6799912762149824844
+    second: houses_outside_shadowsRPGBuildingsHouse 1_21
+  - first:
+      213: 2240960414915599555
+    second: houses_outside_shadowsRPGBuildingsHouse 1_22
+  - first:
+      213: 719505777337562029
+    second: houses_outside_shadowsRPGBuildingsHouse 1_23
+  - first:
+      213: 3652436259970249624
+    second: houses_outside_shadowsRPGBuildingsHouse 1_24
+  - first:
+      213: -5797702204615738350
+    second: houses_outside_shadowsRPGBuildingsHouse 1_25
+  - first:
+      213: -9020340189922092757
+    second: houses_outside_shadowsRPGBuildingsHouse 1_26
+  - first:
+      213: 72808566481527034
+    second: houses_outside_shadowsRPGBuildingsHouse 1_27
+  - first:
+      213: -4063941837801189039
+    second: houses_outside_shadowsRPGBuildingsHouse 1_28
+  - first:
+      213: 5717930481368751791
+    second: houses_outside_shadowsRPGBuildingsHouse 1_29
+  - first:
+      213: -7736817699908585535
+    second: houses_outside_shadowsRPGBuildingsHouse 1_30
+  - first:
+      213: -3309249222392298645
+    second: houses_outside_shadowsRPGBuildingsHouse 1_31
+  - first:
+      213: 4642791027104447516
+    second: houses_outside_shadowsRPGBuildingsHouse 1_32
+  - first:
+      213: 2973803010378752206
+    second: houses_outside_shadowsRPGBuildingsHouse 1_33
+  - first:
+      213: 7924618968247711907
+    second: houses_outside_shadowsRPGBuildingsHouse 1_34
+  - first:
+      213: -5196679200502905846
+    second: houses_outside_shadowsRPGBuildingsHouse 1_35
+  - first:
+      213: 7704920883110219771
+    second: houses_outside_shadowsRPGBuildingsHouse 1_36
+  - first:
+      213: 2674398675130644302
+    second: houses_outside_shadowsRPGBuildingsHouse 1_37
+  - first:
+      213: 2865877092598056456
+    second: houses_outside_shadowsRPGBuildingsHouse 1_38
+  - first:
+      213: 1977150937911148570
+    second: houses_outside_shadowsRPGBuildingsHouse 1_39
+  - first:
+      213: -2807144361140103627
+    second: houses_outside_shadowsRPGBuildingsHouse 1_40
+  - first:
+      213: -6447633865578261789
+    second: houses_outside_shadowsRPGBuildingsHouse 1_41
+  - first:
+      213: 6288437464106631239
+    second: houses_outside_shadowsRPGBuildingsHouse 1_42
+  - first:
+      213: 6671656375484528955
+    second: houses_outside_shadowsRPGBuildingsHouse 1_43
+  - first:
+      213: 3244336472127149350
+    second: houses_outside_shadowsRPGBuildingsHouse 1_44
+  - first:
+      213: 7253051584951441311
+    second: houses_outside_shadowsRPGBuildingsHouse 1_45
+  - first:
+      213: -6046116165078550837
+    second: houses_outside_shadowsRPGBuildingsHouse 1_46
+  - first:
+      213: -2568207790149635348
+    second: houses_outside_shadowsRPGBuildingsHouse 1_47
+  - first:
+      213: 8832023239962281349
+    second: houses_outside_shadowsRPGBuildingsHouse 1_48
+  - first:
+      213: 812510088972733637
+    second: houses_outside_shadowsRPGBuildingsHouse 1_49
+  - first:
+      213: -2195678181103526216
+    second: houses_outside_shadowsRPGBuildingsHouse 1_50
+  - first:
+      213: 4691812235052498604
+    second: houses_outside_shadowsRPGBuildingsHouse 1_51
+  - first:
+      213: -4823993804151189196
+    second: houses_outside_shadowsRPGBuildingsHouse 1_52
+  - first:
+      213: -4700398095618613812
+    second: houses_outside_shadowsRPGBuildingsHouse 1_53
+  - first:
+      213: -3861471421259768008
+    second: houses_outside_shadowsRPGBuildingsHouse 1_54
+  - first:
+      213: -6668359682975880494
+    second: houses_outside_shadowsRPGBuildingsHouse 1_55
+  - first:
+      213: -649740072531084298
+    second: houses_outside_shadowsRPGBuildingsHouse 1_56
+  - first:
+      213: -4051859713609061228
+    second: houses_outside_shadowsRPGBuildingsHouse 1_57
+  - first:
+      213: 4818137609947433728
+    second: houses_outside_shadowsRPGBuildingsHouse 1_58
+  - first:
+      213: 788423793550678850
+    second: houses_outside_shadowsRPGBuildingsHouse 1_59
+  - first:
+      213: -5247934475207098725
+    second: houses_outside_shadowsRPGBuildingsHouse 1_60
+  - first:
+      213: 1588996906207780016
+    second: houses_outside_shadowsRPGBuildingsHouse 1_61
+  - first:
+      213: -2544816185631969263
+    second: houses_outside_shadowsRPGBuildingsHouse 1_62
+  - first:
+      213: -7509633089811206130
+    second: houses_outside_shadowsRPGBuildingsHouse 1_63
+  - first:
+      213: -4563122557588744065
+    second: houses_outside_shadowsRPGBuildingsHouse 1_64
+  - first:
+      213: 6734887930948514131
+    second: houses_outside_shadowsRPGBuildingsHouse 1_65
+  - first:
+      213: 878732583077001652
+    second: houses_outside_shadowsRPGBuildingsHouse 1_66
+  - first:
+      213: -2713383108789930593
+    second: houses_outside_shadowsRPGBuildingsHouse 1_67
+  - first:
+      213: -4893967765576435823
+    second: houses_outside_shadowsRPGBuildingsHouse 1_68
+  - first:
+      213: 1699771749272575391
+    second: houses_outside_shadowsRPGBuildingsHouse 1_69
+  - first:
+      213: -7742677052454384522
+    second: houses_outside_shadowsRPGBuildingsHouse 1_70
+  - first:
+      213: -7354530621867213356
+    second: houses_outside_shadowsRPGBuildingsHouse 1_71
+  - first:
+      213: -4302899714767067211
+    second: houses_outside_shadowsRPGBuildingsHouse 1_72
+  - first:
+      213: -1208760207992003936
+    second: houses_outside_shadowsRPGBuildingsHouse 1_73
+  - first:
+      213: 4626107633282415311
+    second: houses_outside_shadowsRPGBuildingsHouse 1_74
+  - first:
+      213: 6201155780906490598
+    second: houses_outside_shadowsRPGBuildingsHouse 1_75
+  - first:
+      213: 7315142906294509079
+    second: houses_outside_shadowsRPGBuildingsHouse 1_76
+  - first:
+      213: 6537604215914066432
+    second: houses_outside_shadowsRPGBuildingsHouse 1_77
+  - first:
+      213: -1501904976967935906
+    second: houses_outside_shadowsRPGBuildingsHouse 1_78
+  - first:
+      213: -4180664723091728795
+    second: houses_outside_shadowsRPGBuildingsHouse 1_79
+  - first:
+      213: 1064156216405457363
+    second: houses_outside_shadowsRPGBuildingsHouse 1_80
+  - first:
+      213: 5625618291529589616
+    second: houses_outside_shadowsRPGBuildingsHouse 1_81
+  - first:
+      213: -9041814002628902952
+    second: houses_outside_shadowsRPGBuildingsHouse 1_82
+  - first:
+      213: 8037705520076490715
+    second: houses_outside_shadowsRPGBuildingsHouse 1_83
+  - first:
+      213: 3265242655836253566
+    second: houses_outside_shadowsRPGBuildingsHouse 1_84
+  - first:
+      213: 4822365094278901366
+    second: houses_outside_shadowsRPGBuildingsHouse 1_85
+  - first:
+      213: 3326245590534892727
+    second: houses_outside_shadowsRPGBuildingsHouse 1_86
+  - first:
+      213: -4294236933945453492
+    second: houses_outside_shadowsRPGBuildingsHouse 1_87
+  - first:
+      213: -4508752478692924746
+    second: houses_outside_shadowsRPGBuildingsHouse 1_88
+  - first:
+      213: 4835541993201990236
+    second: houses_outside_shadowsRPGBuildingsHouse 1_89
+  - first:
+      213: -2290705648656338803
+    second: houses_outside_shadowsRPGBuildingsHouse 1_90
+  - first:
+      213: -2702520466316699187
+    second: houses_outside_shadowsRPGBuildingsHouse 1_91
+  - first:
+      213: -5942192996228225329
+    second: houses_outside_shadowsRPGBuildingsHouse 1_92
+  - first:
+      213: -712030655993338885
+    second: houses_outside_shadowsRPGBuildingsHouse 1_93
+  - first:
+      213: 6326845805977844641
+    second: houses_outside_shadowsRPGBuildingsHouse 1_94
+  - first:
+      213: -6732179216909032960
+    second: houses_outside_shadowsRPGBuildingsHouse 1_95
+  - first:
+      213: 7949354062161602245
+    second: houses_outside_shadowsRPGBuildingsHouse 1_96
+  - first:
+      213: 2073774796792057539
+    second: houses_outside_shadowsRPGBuildingsHouse 1_97
+  - first:
+      213: 1739769838825981076
+    second: houses_outside_shadowsRPGBuildingsHouse 1_98
+  - first:
+      213: 8431393029641506022
+    second: houses_outside_shadowsRPGBuildingsHouse 1_99
+  - first:
+      213: -9088810803646948136
+    second: houses_outside_shadowsRPGBuildingsHouse 1_100
+  - first:
+      213: -4699351132436476183
+    second: houses_outside_shadowsRPGBuildingsHouse 1_101
+  - first:
+      213: -5535194054190376553
+    second: houses_outside_shadowsRPGBuildingsHouse 1_102
+  - first:
+      213: -1332313374324723204
+    second: houses_outside_shadowsRPGBuildingsHouse 1_103
+  - first:
+      213: -4198678400733447651
+    second: houses_outside_shadowsRPGBuildingsHouse 1_104
+  - first:
+      213: 6972517760614725130
+    second: houses_outside_shadowsRPGBuildingsHouse 1_105
+  - first:
+      213: -729503675410394973
+    second: houses_outside_shadowsRPGBuildingsHouse 1_106
+  - first:
+      213: -8965046609520473435
+    second: houses_outside_shadowsRPGBuildingsHouse 1_107
+  - first:
+      213: -7311836387183915415
+    second: houses_outside_shadowsRPGBuildingsHouse 1_108
+  - first:
+      213: 8250428246071344738
+    second: houses_outside_shadowsRPGBuildingsHouse 1_109
+  - first:
+      213: -7747660930569047872
+    second: houses_outside_shadowsRPGBuildingsHouse 1_110
+  - first:
+      213: 8400663628070519372
+    second: houses_outside_shadowsRPGBuildingsHouse 1_111
+  - first:
+      213: 1864961481579856909
+    second: houses_outside_shadowsRPGBuildingsHouse 1_112
+  - first:
+      213: 1423644875318368826
+    second: houses_outside_shadowsRPGBuildingsHouse 1_113
+  - first:
+      213: -2571196457457529700
+    second: houses_outside_shadowsRPGBuildingsHouse 1_114
+  - first:
+      213: -1927395190094211434
+    second: houses_outside_shadowsRPGBuildingsHouse 1_115
+  - first:
+      213: 5060133165047181783
+    second: houses_outside_shadowsRPGBuildingsHouse 1_116
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 928
+        width: 102
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8595517aeb1ece3498936bc199f1ce73
+      internalID: -4639878321604746062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 928
+        width: 32
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c2d9d7bbd2f8b499320d03442fea1f
+      internalID: -5026079477865731522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_2
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 928
+        width: 148
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b508ec482701b48bf5b3d55fe212e8
+      internalID: -1688959684290247751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_3
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 928
+        width: 32
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221d3a1684c57324681ea42bdd78bdf3
+      internalID: -2478482009100446698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_4
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 928
+        width: 148
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7727604f0497c9344b26347c908ee21a
+      internalID: -8435219363306238737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_5
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 928
+        width: 32
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4e8837dba141c47b4513b4f1515fd5
+      internalID: -4518142172100672327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_6
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 928
+        width: 148
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec46a42ef6c3094ea14ab6a91c11e00
+      internalID: 583548502681926535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_7
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 928
+        width: 32
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b90d492ebc0a6842b041ace0d272f4c
+      internalID: 9051672195661091209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 992
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8316d1415afc4514881eb2b94054adbf
+      internalID: 1452348917414902997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_9
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 992
+        width: 28
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439cbebead090f043b831eb667bf5537
+      internalID: -6274496095684829586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_10
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 960
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1cfdb22e2a33e4eace0324d14c9fbc
+      internalID: 4613856394272696008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_11
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 960
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c85c272896ff7488d15da8dec162ff
+      internalID: 6596538166363387198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_12
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 960
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b51da96d6facf14eb9938e70c36b59c
+      internalID: -4074231017068744255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_13
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 960
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d4226cc5ac5b194e94d7725248090d4
+      internalID: 1104787702790234242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_14
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 881
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222f0eece0243954e855050a7f480334
+      internalID: 3621936787063782333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_15
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 881
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9845404b9b5cd8e48b85a3842f4c6fd1
+      internalID: -1482422577958750913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_16
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 881
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972ed6642aa71044d8401fa464a0a4a7
+      internalID: 2790682164132303595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_17
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 881
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a33f394dc3c2a6d4db216fb878829d34
+      internalID: -8622872735213521681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_18
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 875
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d01247374daa084580c9ebc5b7b4131
+      internalID: 5786700553730958243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_19
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 875
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7a63ec4f17afa42a75d1e35f4c872b
+      internalID: 8900904506549946359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_20
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 875
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735a22e8ef165a34dbe3797c7791f0bd
+      internalID: 6799570373589455850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_21
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 875
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a1db1439972314facf7b35c56cd2e4
+      internalID: 6799912762149824844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_22
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 896
+        width: 27
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813dbeeae1d753d44a5fa8537da0f908
+      internalID: 2240960414915599555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_23
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 896
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4957082599d4b5347adfdb6a37530b45
+      internalID: 719505777337562029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_24
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 757
+        width: 146
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 021d443256615ac46abf718f041552d1
+      internalID: 3652436259970249624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_25
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 757
+        width: 146
+        height: 139
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d27d31f33489de4cbb68e7cca01f23a
+      internalID: -5797702204615738350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_26
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 817
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d9eba1b458a0c478a83b47b4a6a52b
+      internalID: -9020340189922092757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_27
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 817
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2543d7ff575d34d84c5e15c024a8f2
+      internalID: 72808566481527034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_28
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 817
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382d9b61a73ac394c8f83f26f618b63f
+      internalID: -4063941837801189039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_29
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 817
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c20fa164c638e448c440ba224c576a
+      internalID: 5717930481368751791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_30
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 811
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2c9720de229e2040b3f7fa4bfbbb103
+      internalID: -7736817699908585535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_31
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 811
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58077cbadbc961341a567914c5b7ee2d
+      internalID: -3309249222392298645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_32
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 811
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525cc4fbb4408d3478ae87a8e9c08b2d
+      internalID: 4642791027104447516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_33
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 811
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8332f7fdf14e18f468e71aa671036e73
+      internalID: 2973803010378752206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_34
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 661
+        width: 146
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf2b9706d52c7e7489ec4f1806f76efa
+      internalID: 7924618968247711907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_35
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 661
+        width: 146
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1326fa28fa3126c4291fa9b0e4852cc6
+      internalID: -5196679200502905846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_36
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 608
+        width: 104
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f392ad5940006e478dce26b3bc6042f
+      internalID: 7704920883110219771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_37
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 608
+        width: 32
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa563ef7f7c89bf4a8bd769021974f0a
+      internalID: 2674398675130644302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_38
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 608
+        width: 104
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e93e60d7bc1dc3140b909d4db320a31a
+      internalID: 2865877092598056456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_39
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 608
+        width: 32
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b7266da6cb3094eaa1d26a666e94c7
+      internalID: 1977150937911148570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_40
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 608
+        width: 104
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c526d0cdf4f777e43b9556bc72dd1ca8
+      internalID: -2807144361140103627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_41
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 608
+        width: 32
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73abdc3a28c77e44bc68fe2adf407a6
+      internalID: -6447633865578261789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_42
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 608
+        width: 104
+        height: 187
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf1f1f3a6e29ef4ca701aa45604003a
+      internalID: 6288437464106631239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_43
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 608
+        width: 31
+        height: 155
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d087bce76c1c049aad66ec828bc83f
+      internalID: 6671656375484528955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 614
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4976c9a783cc70d469cff33e832ef7d7
+      internalID: 3244336472127149350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_45
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 614
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0323777984c8b464a8f953437f2e07d6
+      internalID: 7253051584951441311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_46
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 614
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b363e60b97996bb4aa504fa6f8ed497b
+      internalID: -6046116165078550837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_47
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 614
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a476c52d10a2543a9323e5a55b07b4
+      internalID: -2568207790149635348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_48
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 615
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23edd8a1a4d03f04e9f658630dcb559f
+      internalID: 8832023239962281349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_49
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 615
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f966cab7f133d46a4a3ddbaf61329f
+      internalID: 812510088972733637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 582
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93003c63cde4c9849a3c3bb9fa3bcc07
+      internalID: -2195678181103526216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_51
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 582
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6d2e574c14d2f4c8b359a2ed175a33
+      internalID: 4691812235052498604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_52
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 582
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380e8aa0bec4d914a90a39b3acf2c1a6
+      internalID: -4823993804151189196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_53
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 582
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe3638b6f2979546ba86bbce6bf1d02
+      internalID: -4700398095618613812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_54
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 579
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e308ae1897143346a9d82db2475d856
+      internalID: -3861471421259768008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_55
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 579
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0340e29e9b628c4d8e47bbd713c1ce1
+      internalID: -6668359682975880494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_56
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 468
+        width: 111
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74ccc818118b1249b84918b2be09c56
+      internalID: -649740072531084298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_57
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 468
+        width: 111
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfd8b73d55d3ce4aae40162ef4473bc
+      internalID: -4051859713609061228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_58
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 468
+        width: 111
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a805cbccaa0447a48be58af02cd152bc
+      internalID: 4818137609947433728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_59
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 468
+        width: 111
+        height: 135
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f07cf0653a3d8074ea4085729a872889
+      internalID: 788423793550678850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 550
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41e40c07a8aa1e4dbce66838c36ecc4
+      internalID: -5247934475207098725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_61
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 550
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b890bcefca6c747b704d36ad0224b0
+      internalID: 1588996906207780016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_62
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 550
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80aec8aa7072b1c49ae1de920904487a
+      internalID: -2544816185631969263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_63
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 550
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6932e22f5c5465442aae27f4f8c73a0c
+      internalID: -7509633089811206130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_64
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 547
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3bde49ac90614a4aa4dd7f9c5e18864
+      internalID: -4563122557588744065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_65
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 547
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf60249f55b55ee4eadf882e130a9999
+      internalID: 6734887930948514131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 518
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe76ac023a6e38f4d91dd18aadc374d8
+      internalID: 878732583077001652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_67
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 518
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c2d558181ffc043a83c8e58a76740d
+      internalID: -2713383108789930593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_68
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 518
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d4f9eb61bfb2d4b90d81b947326cc3
+      internalID: -4893967765576435823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_69
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 518
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852d1b725ca0c7549a9bfb838aca385e
+      internalID: 1699771749272575391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_70
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 515
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82aeb0b9269176f4d8585dc9b170b017
+      internalID: -7742677052454384522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_71
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 515
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ca5bcb8eb0a6646ae93af716450f5b
+      internalID: -7354530621867213356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 486
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7501940a0f82d4eaf3b7e96f4b0bbe
+      internalID: -4302899714767067211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_73
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 486
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9629f7b293887c43849f3efab649c3b
+      internalID: -1208760207992003936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_74
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 486
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebc7c7d9576be548ae8914eb82e9fcc
+      internalID: 4626107633282415311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_75
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 486
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a2695cb71e89f46a35c4177869498f
+      internalID: 6201155780906490598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_76
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 490
+        width: 96
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a41b9fe30e1c91459d20575c5a7b347
+      internalID: 7315142906294509079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 431
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c5e0e18ff911944a8b69ec694516e1
+      internalID: 6537604215914066432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_78
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 431
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c3bda547bc9eb4583a9929e69ee1bb
+      internalID: -1501904976967935906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_79
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 431
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9804c7d546da9074785c5f639f08b664
+      internalID: -4180664723091728795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_80
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 431
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac839626d06dcc94ea71d1e0e32c94a2
+      internalID: 1064156216405457363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_81
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 453
+        width: 96
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c246a5aa78efee44aacf9d16381dd6d
+      internalID: 5625618291529589616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 367
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30fbb8329d40174e86479e2b63ee81a
+      internalID: -9041814002628902952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_83
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 367
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4efc53c0de587db438968876c03ff16d
+      internalID: 8037705520076490715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_84
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 367
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589bd8b2187caa44db236a7ae97a48f4
+      internalID: 3265242655836253566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_85
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 367
+        width: 32
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e76cb99cb6f4b43901b46f6c8fef68
+      internalID: 4822365094278901366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_86
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 352
+        width: 87
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45da2137009aef540a67621c394a40ec
+      internalID: 3326245590534892727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_87
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 352
+        width: 87
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a169873806e1dd45971a8a070ed19b8
+      internalID: -4294236933945453492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_88
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 352
+        width: 87
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a10baba93db34a4890b0a14c5bdf69b
+      internalID: -4508752478692924746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_89
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 352
+        width: 87
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a796eb1d10589341b101b4640de36f5
+      internalID: 4835541993201990236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_90
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 352
+        width: 87
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ef1b25426e4f74bb7074b01fd57414
+      internalID: -2290705648656338803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_91
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 352
+        width: 87
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0704a31c9cd3eea40a7f6a5f1d5c59e7
+      internalID: -2702520466316699187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_92
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 352
+        width: 87
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286d66b11c1eb6e49bc6efdfc53e742d
+      internalID: -5942192996228225329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_93
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 352
+        width: 87
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a94631d4438ce64a8c754145feb650d
+      internalID: -712030655993338885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_94
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 288
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f62a37a13cbd1b2449b078004da6561e
+      internalID: 6326845805977844641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_95
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 288
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a7273c41d8ddf40ba1bc25bf8a68c7
+      internalID: -6732179216909032960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_96
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 288
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08450bcd8affce64fa8aa6b2d0798602
+      internalID: 7949354062161602245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_97
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 288
+        width: 30
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b64254c85a224e41ad25d1c18e09eb9
+      internalID: 2073774796792057539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_98
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 256
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ab3b84491c5024aabae303ad1eb14d
+      internalID: 1739769838825981076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_99
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd4adcf51d0cad469c0aed0568d96dd
+      internalID: 8431393029641506022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_100
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 256
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bfa39fa818820840b0e383e7925c51e
+      internalID: -9088810803646948136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_101
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 117
+        width: 96
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee94b74f1ce7ac34080b7b08a857789d
+      internalID: -4699351132436476183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_102
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 108
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4189a583e7657cc4fb3d66b819d67364
+      internalID: -5535194054190376553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_103
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 117
+        width: 96
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaaaa9d7de611a643b910765b3db6d59
+      internalID: -1332313374324723204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_104
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 238
+        width: 43
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3daca4c1792097b4a8b6fa3b530deb71
+      internalID: -4198678400733447651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_105
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 238
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1638fc1988ece3849922d4f08a5bdb76
+      internalID: 6972517760614725130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_106
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 128
+        width: 43
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395b7c0b4651bcc4eaa1651c3d55c4a9
+      internalID: -729503675410394973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_107
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 192
+        width: 5
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17ba9173a7f53f4b96629d4d522430e
+      internalID: -8965046609520473435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_108
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 197
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f270bd15475f2ed40b71991514e7b477
+      internalID: -7311836387183915415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_109
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 197
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c66e5f56a7ffa478240d2ed6d40a01
+      internalID: 8250428246071344738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_110
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 192
+        width: 5
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3799b26349854c5419778861e859c223
+      internalID: -7747660930569047872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_111
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 133
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2761abacf822c224aaeb23485a98f38e
+      internalID: 8400663628070519372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_112
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 133
+        width: 64
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09309e716df14de468badcb22b7add9d
+      internalID: 1864961481579856909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_113
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 133
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f12df021d893046955c2a0dac622bf
+      internalID: 1423644875318368826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_114
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 56
+        width: 108
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cab0f49128bbbe48a1088f8a62df9d4
+      internalID: -2571196457457529700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_115
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 982
+        width: 102
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f81ebbc61a76248b42935e8d4d9799
+      internalID: -1927395190094211434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houses_outside_shadowsRPGBuildingsHouse 1_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 927
+        width: 21
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e04a59978cb00e49be1f8d48684db1e
+      internalID: 5060133165047181783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
